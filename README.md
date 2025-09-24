@@ -52,6 +52,8 @@ df = df.drop(columns=['Unnamed: 0'])
 ### 2. Exploratory Data Analysis
 - Scatter plots showing relationship between CGPA and placement
 - Colored scatter plot showing CGPA vs IQ with placement outcomes
+- 
+<img width="567" height="438" alt="image" src="https://github.com/user-attachments/assets/1d4a9f06-d68d-498c-be9a-dadf2c8b1efb" />
 
 ### 3. Data Preparation
 - Feature selection (CGPA and IQ as independent variables)
