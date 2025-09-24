@@ -115,6 +115,8 @@ The model's performance is evaluated using accuracy score on the test set. The d
 3. **Model Comparison**: Try other algorithms (SVM, Random Forest, etc.)
 4. **Hyperparameter Tuning**: Optimize model parameters
 5. **More Metrics**: Add precision, recall, F1-score, and confusion matrix
+   <img width="689" height="547" alt="image" src="https://github.com/user-attachments/assets/fd4c1b1d-b01f-4fab-b4f6-4f3c16be1a71" />
+
 
 ## File Structure
 
